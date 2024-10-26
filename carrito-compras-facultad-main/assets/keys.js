@@ -1,0 +1,4 @@
+export const keys={
+  public:"pk_test_51QDwNwKb1u3GC7xnuJJprFmPH6dAeJz77JbdbHzjKgUbK10OBL6AXxeWfLkBqchmqPFOQqEFYVi1cW3RcS9AR1gV00U1T7CHVM",
+  secret:"sk_test_51QDwNwKb1u3GC7xnz9Fp9OtWCua8qenjnkpnIVuOf7kFC8qHY6f1R69cHfdk1jijy5wTZlkQFybrOizbaJLQywxW00rFjz3Qsu",
+}
